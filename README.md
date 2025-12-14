@@ -1,7 +1,7 @@
 <img align="right" src="./photograph.jpeg" alt="Sun#Tree" width="220px">
 
 ## Welcome 👋
-- 💻 I am **Nehal**, also known as **nehalsci**.
+- 💻 I am **Nehal**, also known as **inkandnehal**.
 - 🌐 I am from **Bangladesh**.
 - 🤖 I mainly work with the **computer**.
 
